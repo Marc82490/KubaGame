@@ -6,7 +6,7 @@
 
 ## Setup and Usage
 
-Here's a very simple example of how your `KubaGame` class could be used by the autograder or a TA:
+An example of how Kuba can be played:
 ```
 game = KubaGame(('PlayerA', 'W'), ('PlayerB', 'B'))
 game.get_marble_count() #returns (8,8,13)
